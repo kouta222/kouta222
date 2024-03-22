@@ -7,6 +7,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouta222" />
 </a>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 <!--
 **kouta222/kouta222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
