@@ -15,7 +15,7 @@
 
 
                     
-skills
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,php,html,css,)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nestjs,laravel)](https://skillicons.dev)
