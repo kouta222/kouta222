@@ -7,9 +7,15 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouta222" />
 </a>
 
-<div>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-</div>
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,html,css,)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nestjs,laravel)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nestjs,laravel)](https://skillicons.dev)
 
 <!--
 **kouta222/kouta222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
