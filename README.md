@@ -16,7 +16,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,php,html,css,python)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel,flask)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,gcp)](https://skillicons.dev)
 
