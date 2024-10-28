@@ -12,7 +12,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nest,laravel)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,firebase,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,firebase,graphql)](https://skillicons.dev)
 
 <!--
 **kouta222/kouta222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
