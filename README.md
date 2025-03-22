@@ -8,11 +8,11 @@
 
                     
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,php,html,css,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,html,css,golang)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nest,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nest,laravel,gin)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=graphql,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=graphql,gcp,firebase,cloudflare)](https://skillicons.dev)
 
 <!--
 **kouta222/kouta222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
