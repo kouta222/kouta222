@@ -8,9 +8,9 @@
 
                     
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,golang,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nest,laravel,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nest,laravel,spring,golang)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=graphql,gcp,firebase,cloudflare)](https://skillicons.dev)
 
