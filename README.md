@@ -8,7 +8,7 @@
 
                     
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,php)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nest,laravel,spring)](https://skillicons.dev)
 
