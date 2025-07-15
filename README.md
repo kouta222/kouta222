@@ -1,34 +1,45 @@
-# welcome to kouta`s github
-<div>
+### Hi, I'm Kouta Amemiya 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouta222" />
-</a>               
-</div>  
+I'm a software developer based in Tokyo, currently working at **Recruit.holdings**. 
+I am currently looking for new opportunities as a Software Engineer.
 
+---
 
-  ## skill
-<div>
+### 🛠️ My Tech Stack
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,kotlin)](https://skillicons.dev)
+<table>
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,kotlin,nest,laravel,spring" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Infra & Cloud</strong></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,firebase" /></a></td>
+  </tr>
+</table>
 
- [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nest,laravel,spring)](https://skillicons.dev)
+---
 
- [![My Skills](https://skillicons.dev/icons?i=graphql,aws,firebase)](https://skillicons.dev)
-</div>
+### 📊 My GitHub Contributions
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kouta222&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="kouta222's GitHub stats" />
+  <br/><br/>
+  <img placeholder="qiita" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kouta222&layout=compact&locale=en&theme=tokyonight" alt="kouta222's top languages" />
+</p>
 
-<!--
-**kouta222/kouta222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📫 Let's Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/kouta-amemiya-6a5603297/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  &nbsp;&nbsp;
+  <a href="https://dev.to/kouta222"><img src="https://skillicons.dev/icons?i=devto" /></a>
+  &nbsp;&nbsp;
+  <a href="https://qiita.com/kouta222"><img src="https://skillicons.dev/icons?i=qiita" /></a>
+</p>
