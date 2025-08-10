@@ -22,17 +22,7 @@ I am currently looking for new opportunities as a Software Engineer.
   </tr>
 </table>
 
----
 
-### 📊 My GitHub Contributions
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kouta222&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="kouta222's GitHub stats" />
-  <br/><br/>
-  <img placeholder="qiita" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kouta222&layout=compact&locale=en&theme=tokyonight" alt="kouta222's top languages" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
